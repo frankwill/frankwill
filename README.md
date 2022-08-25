@@ -1,18 +1,20 @@
-## Olá!
+# Olá!
 
 ## Sobre mim
 
-- :gear: Desenvolvedor Front-end em formação 
+Desenvolvedor Front-End
+
+Gosto de codificar e acompanhar meu progresso nessa jornada, unam-se a gloriosa evolução!:gear:
 
 ## Habilidades
- <!-- Most Used Languages -->
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   </div>
   
   ## Estudando
- <!-- Most Used Languages -->
+
   <img align="center" alt="Rafa-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   </div>
 
