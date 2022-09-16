@@ -1,8 +1,8 @@
 <p align=center><img src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&pause=1000&color=B4061B&width=435&lines=Olá+pessoal!+👋;Me+chamo+Frank+William!;ou+Fr4nkC0d3;Prazer+em+conhece-los!;🤙🔥&center=true&size=19"></p>
 
 <div align=center>
-<a href="https://www.linkedin.com/in/ediclei-gonzaga/" alt="Linkedin"><img src="https://i.imgur.com/dZp5OcL.png" width="32px"/></a>  
-<a href="mailto:gonzaga98ed@gmail.com" alt="Gmail"><img src="https://i.imgur.com/GQYGEs7.png" width="32px"/></a>
+<a href="https://www.linkedin.com/in/frankwill/" alt="Linkedin"><img src="https://i.imgur.com/dZp5OcL.png" width="32px"/></a>  
+<a href="mailto:frank.will999@outlook.com" alt="Gmail"><img src="https://i.imgur.com/GQYGEs7.png" width="32px"/></a>
 </div>
 
 > 🎓**Estudante de Ciência da Computação** | UNINOVE - São Paulo/SP. <br>
