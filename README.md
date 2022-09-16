@@ -6,7 +6,7 @@
 </div>
 
 > 🎓**Estudante de Ciência da Computação** | UNINOVE - São Paulo/SP. <br>
-> <img align="center" alt="FrontEnd" height="20" width="20" src="https://i.imgur.com/1bJrv0A.png"> **Noviço Sith FrontEnd** 
+> <img align="center" alt="FrontEnd" height="20" width="20" src="https://i.imgur.com/1bJrv0A.png"> **Novice With FrontEnd** 
 <details>
   <summary> <b>📚Estudando</b></summary> <br>
   <img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frankwill&layout=compact&langs_count=7&hide_border=true&theme=default&title_color=B4061B&text_color=878787&icon_color=58a6fe&cache_seconds=1800&bg_color=00000000" align="right"/>
