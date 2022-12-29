@@ -34,13 +34,13 @@
     <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="VUEJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vuejs/vuejs-original.svg">
     <img align="center" alt="QUASAR.DEV" height="30" width="40" src="https://cdn.quasar.dev/logo-v2/svg/logo.svg">
-   </div
+  </div><br>
  
 ## ⚙ Tools
 
    <div style="display: inline_block"><br>
     <img align="center" alt="vs-code" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
-    <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.sv">
+    <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">
    </div>
  
 <br><img src="https://i.imgur.com/e5Cgkvi.gif" width="200px" align="right" alt="Fr4nkCod3"><br>
