@@ -12,7 +12,7 @@
   <img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frankwill&layout=compact&langs_count=7&hide_border=true&theme=default&title_color=B4061B&text_color=878787&icon_color=58a6fe&cache_seconds=1800&bg_color=00000000" align="right"/>
 - 📙 HTML <br>
 - 📘 CSS <br>
-- 📒 JavaScript 
+- 📒 JavaScript
 </details>
 
 
@@ -28,13 +28,19 @@
 
 ## ⚡ Skills    
 
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <div style="display: inline_block"><br>
+    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="VUEJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vuejs/vuejs-original.svg">
+    <img align="center" alt="QUASAR.DEV" height="30" width="40" src="https://cdn.quasar.dev/logo-v2/svg/logo.svg">
+   </div
  
 ## ⚙ Tools
 
-  <img align="center" alt="vs-code" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
-  <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">
+   <div style="display: inline_block"><br>
+    <img align="center" alt="vs-code" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
+    <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.sv">
+   </div>
  
 <br><img src="https://i.imgur.com/e5Cgkvi.gif" width="200px" align="right" alt="Fr4nkCod3"><br>
