@@ -1,4 +1,4 @@
-<p align=center><img src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&pause=1000&color=B4061B&width=435&lines=Olá+pessoal!+👋;Me+chamo+Frank+William!;ou+Fr4nkC0d3;Prazer+em+conhece-los!;🤙🔥&center=true&size=19"></p>
+<p align=center><img src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&pause=1000&color=B4061B&width=435&lines=Olá+pessoal!+👋;Me+chamo+Frank+William!;Prazer+em+conhece-los!;🤙🔥&center=true&size=19"></p>
 
 <div align=center>
 <a href="https://www.linkedin.com/in/frankwill/" alt="Linkedin"><img src="https://i.imgur.com/dZp5OcL.png" width="32px"/></a>  
@@ -6,13 +6,14 @@
 </div>
 
 > 🎓**Estudante de Ciência da Computação** | UNINOVE - São Paulo/SP. <br>
-> <img align="center" alt="FrontEnd" height="20" width="20" src="https://i.imgur.com/1bJrv0A.png"> **Novice With FrontEnd** 
 <details>
   <summary> <b>📚Estudando</b></summary> <br>
   <img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frankwill&layout=compact&langs_count=7&hide_border=true&theme=default&title_color=B4061B&text_color=878787&icon_color=58a6fe&cache_seconds=1800&bg_color=00000000" align="right"/>
 - 📙 HTML <br>
 - 📘 CSS <br>
-- 📒 JavaScript
+- 📒 JavaScript <br>
+- 📗 Vue.js <br>
+- 📘 Quasar Framework
 </details>
 
 
@@ -33,7 +34,10 @@
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="VUEJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vuejs/vuejs-original.svg">
+    <img align="center" alt="Vuetify" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vuetify/vuetify-original.svg">
+    <img align="center" alt="Sass" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg">
     <img align="center" alt="QUASAR.DEV" height="30" width="40" src="https://cdn.quasar.dev/logo-v2/svg/logo.svg">
+    
   </div><br>
  
 ## ⚙ Tools
