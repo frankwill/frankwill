@@ -35,8 +35,9 @@
     <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="VUEJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vuejs/vuejs-original.svg">
     <img align="center" alt="Vuetify" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vuetify/vuetify-original.svg">
-    <img align="center" alt="Sass" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg">
     <img align="center" alt="QUASAR.DEV" height="30" width="40" src="https://cdn.quasar.dev/logo-v2/svg/logo.svg">
+    <img align="center" alt="PHP" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
+    <img align="center" alt="MySQL" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
     
   </div><br>
  
