@@ -1,21 +1,12 @@
-<p align=center><img src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&pause=1000&color=B4061B&width=435&lines=Olá+pessoal!+👋;Me+chamo+Frank+William!;Prazer+em+conhece-los!;🤙🔥&center=true&size=19"></p>
+<p align=center><img src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&pause=1000&color=B4061B&width=435&lines=Olá+pessoal!+👋;Me+chamo+Frank+Barbosa!;Prazer+em+conhece-los!;🤙🔥&center=true&size=19"></p>
 
 <div align=center>
 <a href="https://www.linkedin.com/in/frankwill/" alt="Linkedin"><img src="https://i.imgur.com/dZp5OcL.png" width="32px"/></a>  
 <a href="mailto:frank.will999@outlook.com" alt="Gmail"><img src="https://i.imgur.com/GQYGEs7.png" width="32px"/></a>
 </div>
 
-> 🎓**Estudante de Ciência da Computação** | UNINOVE - São Paulo/SP. <br>
-<details>
-  <summary> <b>📚Estudando</b></summary> <br>
-  <img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frankwill&layout=compact&langs_count=7&hide_border=true&theme=default&title_color=B4061B&text_color=878787&icon_color=58a6fe&cache_seconds=1800&bg_color=00000000" align="right"/>
-- 📙 HTML <br>
-- 📘 CSS <br>
-- 📒 JavaScript <br>
-- 📗 Vue.js <br>
-- 📘 Quasar Framework
-</details>
-
+> 🎓**Bacharel em Ciência da Computação** | UNINOVE - São Paulo/SP. <br>
+> 🎓**Pós-graduando em Engenharia de Software** | PUCMinas - Minas Gerais/BH. <br>
 
 <div align="center">
 
@@ -29,17 +20,17 @@
 
 ## ⚡ Skills    
 
-  <div style="display: inline_block"><br>
-    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="VUEJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vuejs/vuejs-original.svg">
-    <img align="center" alt="Vuetify" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vuetify/vuetify-original.svg">
-    <img align="center" alt="QUASAR.DEV" height="30" width="40" src="https://cdn.quasar.dev/logo-v2/svg/logo.svg">
-    <img align="center" alt="PHP" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
-    <img align="center" alt="MySQL" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
-    
-  </div><br>
+<p>
+  <img alt="HTML" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img alt="CSS" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img alt="Js" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img alt="VUEJS" height="30" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vuejs/vuejs-original.svg">
+  <img alt="Vuetify" height="30" src="https://github.com/devicons/devicon/blob/master/icons/vuetify/vuetify-original.svg">
+  <img alt="QUASAR.DEV" height="30" src="https://cdn.quasar.dev/logo-v2/svg/logo.svg">
+  <img alt="PHP" height="40" style="vertical-align: bottom;" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
+  <img alt="MySQL" height="50" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
+</p>
+  <br>
  
 ## ⚙ Tools
 
