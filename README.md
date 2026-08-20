@@ -29,6 +29,8 @@
   <img alt="QUASAR.DEV" height="30" src="https://cdn.quasar.dev/logo-v2/svg/logo.svg">
   <img alt="PHP" height="40" style="vertical-align: bottom;" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
   <img alt="MySQL" height="50" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
+  <img alt="React" height="30" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/react/react-original.svg">
+  <img alt="Docker" height="50" style="vertical-align: bottom;" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/docker/docker-original.svg">
 </p>
   <br>
  
